@@ -5,15 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "express": "node express.js",
-    "copy": "mv dev.js.bk dev.js",
-    "serve": "npm start",
-    "dev": "node dev.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webnicola/servernode.git"
+    "url": "git+https://github.com/Alecass/servernode.git"
   },
   "keywords": [],
   "author": "",
