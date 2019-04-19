@@ -6,7 +6,7 @@ npm run express
 ```
 ### per vedere la versione
 ```
-node express.js gi
+node express.js git
 ```
 ### per decidere la portail valore va al terzo arg
 ```
